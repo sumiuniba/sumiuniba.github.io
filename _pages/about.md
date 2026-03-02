@@ -18,7 +18,10 @@ Cieľom práce je vysvetliť vznik, pretrvávanie a funkcie vybraných kognití
 **Denník**
 ======
 _23. 2. - 1. 3. 2026_
+
 Konzultácia so školiteľom.
+
 Tvorba webstránky
 
 **Zrdoje**
+======

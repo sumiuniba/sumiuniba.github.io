@@ -171,6 +171,7 @@ exclude:
   - .asset-cache
   - .bundle
   - .github
+  - sitemap.xml
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js

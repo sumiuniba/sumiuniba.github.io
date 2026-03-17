@@ -33,7 +33,7 @@ _9. 3. - 15. 3. 2026_
 
 _16. 3. - 22. 3. 2026_
 
-* Úprava kódu jednoduchej simulácie.
+* Úprava kódu simulácie.
 
 **Zrdoje**
 ======

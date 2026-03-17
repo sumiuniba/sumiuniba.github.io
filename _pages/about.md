@@ -24,6 +24,17 @@ _23. 2. - 1. 3. 2026_
 
 _2. 3. - 8. 3. 2026_
 
+* Výber vhodného frameworku na implementáciu praktickej časti práce.
+* Plánovanie implementácie.
+
+_9. 3. - 15. 3. 2026_
+
+* Implementácia jednoduchej simulácie.
+
+_16. 3. - 22. 3. 2026_
+
+* Úprava kódu jednoduchej simulácie.
+
 **Zrdoje**
 ======
 Hershey H Friedman. Cognitive biases and their influence on critical thinking and scientific reasoning: A practical guide for students and teachers. Available at SSRN 2958800, 2023.

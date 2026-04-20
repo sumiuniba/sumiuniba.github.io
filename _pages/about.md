@@ -64,6 +64,8 @@ _13. 4. - 19. 4. 2026_
 
 _20. 4. - 26. 4. 2026_
 
+* Dokončenie implementácie simulácie.
+
 **Zrdoje**
 ======
 Hershey H Friedman. Cognitive biases and their influence on critical thinking and scientific reasoning: A practical guide for students and teachers. Available at SSRN 2958800, 2023.

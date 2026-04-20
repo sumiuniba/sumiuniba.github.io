@@ -20,7 +20,7 @@ Cieľom práce je vysvetliť vznik, pretrvávanie a funkcie vybraných kognití
 _23. 2. - 1. 3. 2026_
 
 * Konzultácia so školiteľom.
-* Tvorba webstránky.
+* Tvorba webovej stránky.
 
 _2. 3. - 8. 3. 2026_
 
@@ -29,11 +29,40 @@ _2. 3. - 8. 3. 2026_
 
 _9. 3. - 15. 3. 2026_
 
-* Implementácia jednoduchej simulácie.
+* Implementácia jednoduchej simulácie a jej vizualizácie.
+* Implementácia agenta bez skreslenia.
 
 _16. 3. - 22. 3. 2026_
 
 * Úprava kódu simulácie.
+* Testovanie simulácie.
+
+_23. 3. - 29. 3. 2026_
+
+* Konzultácia so školiteľom.
+* Implementácia agenta s averziou voči strate.
+
+_30. 3. - 5. 4. 2026_
+
+* Implementácia agenta s efektom prehnanej sebadôvery.
+* Implementácia agenta so stádovým efektom.
+
+_6. 4. - 12. 4. 2026_
+
+* Implementácia mechanizmu na spoluprácu medzi agentmi.
+* Zväčšenie mapy a pridanie agentov a objektov do nej.
+
+_13. 4. - 19. 4. 2026_
+
+* Úprava mechanizmu zabezpečujúceho reprodukciu. Pridanie koeficientov pre silu skreslenia. Pridanie mutácie týchto koeficientov pri reprodukcii.
+* Testovanie mechanizmu na spoluprácu medzi agentmi.
+* Úprava a testovanie objektov mapy.
+* Úprava parametrov simulácie a agentov.
+* Implementácia mechanizmu na zber dát počas behu simulácie.
+* Úprava agenta so stádovým efektom.
+* Úprava mapy.
+
+_20. 4. - 26. 4. 2026_
 
 **Zrdoje**
 ======

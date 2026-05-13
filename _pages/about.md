@@ -65,6 +65,7 @@ _13. 4. - 19. 4. 2026_
 _20. 4. - 26. 4. 2026_
 
 * Dokončenie implementácie simulácie.
+* Konzultácia so školiteľom.
 
 _27. 4. - 3. 5. 2026_
 

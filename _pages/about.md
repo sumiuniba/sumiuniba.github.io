@@ -104,7 +104,66 @@ _Nápoveda:_
 **Zrdoje**
 ======
 
-{% bibliography --file bibtex1 %}
+**Zdroje**
+======
+
+* Bellman, Richard. “A Markovian Decision Process.” *Journal of Mathematics and Mechanics*, 6(5):679–684, 1957.
+
+* Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch. “A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades.” *Journal of Political Economy*, 100(5):992–1026, 1992.
+
+* Bindra, Sunali, Deepika Sharma, Nakul Parameswar, Sanjay Dhir, and Justin Paul. “Bandwagon Effect Revisited: A Systematic Review to Develop Future Research Agenda.” *Journal of Business Research*, 143:305–317, 2022.
+
+* Friedman, Hershey H. “Cognitive Biases and Their Influence on Critical Thinking and Scientific Reasoning: A Practical Guide for Students and Teachers.” *Available at SSRN 2958800*, 2023.
+
+* Gal, David, and Derek D. Rucker. “The Loss of Loss Aversion: Will It Loom Larger Than Its Gain?” *Journal of Consumer Psychology*, 28(3):497–516, 2018.
+
+* Galperin, Andrew, and Martie G. Haselton. “Error Management and the Evolution of Cognitive Bias.” In *Social Thinking and Interpersonal Behavior*, pages 45–63. Psychology Press, 2012.
+
+* Gigerenzer, Gerd, and Wolfgang Gaissmaier. “Heuristic Decision Making.” *Annual Review of Psychology*, 62:451–482, 2011.
+
+* Hamilton, W. D. “Geometry for the Selfish Herd.” *Journal of Theoretical Biology*, 31(2):295–311, 1971.
+
+* Haselton, Martie G., and Daniel Nettle. “The Paranoid Optimist: An Integrative Evolutionary Model of Cognitive Biases.” *Personality and Social Psychology Review*, 10(1):47–66, 2006.
+
+* Haselton, Martie G., Daniel Nettle, and Paul W. Andrews. “The Evolution of Cognitive Bias.” *The Handbook of Evolutionary Psychology*, pages 724–746, 2015.
+
+* Henrich, Joe, and Robert Boyd. “The Evolution of Conformist Transmission and the Emergence of Between-Group Differences.” *Evolution and Human Behavior*, 19(4):215–241, 1998.
+
+* Johnson, Dominic D. P., Daniel T. Blumstein, James H. Fowler, and Martie G. Haselton. “The Evolution of Error: Error Management, Cognitive Constraints, and Adaptive Decision-Making Biases.” *Trends in Ecology & Evolution*, 28(8):474–481, 2013.
+
+* Johnson, Dominic D. P., and James H. Fowler. “The Evolution of Overconfidence.” *Nature*, 477(7364):317–320, 2011.
+
+* Kahneman, Daniel. *Thinking, Fast and Slow*. Penguin Books, 2012.
+
+* Kahneman, Daniel, Jack L. Knetsch, and Richard H. Thaler. “Anomalies: The Endowment Effect, Loss Aversion, and Status Quo Bias.” *Journal of Economic Perspectives*, 5(1):193–206, 1991.
+
+* Kakinohana, Regis K., and Ronaldo Pilati. “Differences in Decisions Affected by Cognitive Biases: Examining Human Values, Need for Cognition, and Numeracy.” *Psicologia: Reflexão e Crítica*, 36(1):26, 2023.
+
+* Kameda, Tatsuya, Masanori Takezawa, and Reid Hastie. “The Logic of Social Sharing: An Evolutionary Game Analysis of Adaptive Norm Development.” *Personality and Social Psychology Review*, 7(1):2–19, 2003.
+
+* Knyazev, Norman, and Harrie Oosterhuis. “The Bandwagon Effect: Not Just Another Bias.” In *Proceedings of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval*, pages 243–253, 2022.
+
+* Korteling, Johan E., and Alexander Toet. “Cognitive Biases.” *Encyclopedia of Behavioral Neuroscience*, 3:610–619, 2020.
+
+* Korteling, J. E., J. Sassen-van Meer, A. Toet, and H. J. H. C. van Veen. “Neuro-evolutionary Framework for Cognitive Biases.” *Rapport TNO*, R10611, 2020.
+
+* Mesa Project Contributors. *Mesa: Agent-Based Modeling in Python 3+*. GitHub repository, 2025. https://github.com/mesa/mesa
+
+* Moore, Don A., and Paul J. Healy. “The Trouble with Overconfidence.” *Psychological Review*, 115(2):502, 2008.
+
+* Peters, Uwe. “What Is the Function of Confirmation Bias?” *Erkenntnis*, 87(3):1351–1376, 2022.
+
+* Queller, David C. “A General Model for Kin Selection.” *Evolution*, 46(2):376–380, 1992.
+
+* Taylor, Shelley E., and Jonathon D. Brown. “Illusion and Well-Being: A Social Psychological Perspective on Mental Health.” *Psychological Bulletin*, 103(2):193, 1988.
+
+* ter Hoeven, Ewout, Jan Kwakkel, Vincent Hess, Thomas Pike, Boyu Wang, rht, and Jackie Kazil. “Mesa 3: Agent-Based Modeling with Python in 2025.” *Journal of Open Source Software*, 10(107):7668, 2025. Použitá verzia softvéru: 3.3.1.
+
+* Todd, Peter M., Ralph Hertwig, and Ulrich Hoffrage. “Evolutionary Cognitive Psychology.” *The Handbook of Evolutionary Psychology*, pages 776–802, 2015.
+
+* Tversky, Amos, and Daniel Kahneman. “Judgment under Uncertainty: Heuristics and Biases.” *Science*, 185(4157):1124–1131, 1974.
+
+* Van Eyghen, Hans. “Cognitive Bias: Phylogenesis or Ontogenesis?” *Frontiers in Psychology*, 13:892829, 2022.
 
 
 Sushil Bikhchandani, David Hirshleifer, and Ivo Welch. A theory of fads, fashion, custom, and cultural change as informational cascades. Journal of political Economy, 100(5):992–1026, 1992.

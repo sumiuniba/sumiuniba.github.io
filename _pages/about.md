@@ -92,10 +92,10 @@ _Screenshot simulácie zobrazujúci aktuálne rozloženie agentov v prostredí a
 |1000|0|49|15|0|134|1000|1000|200|
 
 _Nápoveda:_
-NBA (Non Biased Agent) = agent bez skreslenia
-LA (Loss Aversion) = agent s averiou voči strate
-OC (Overconfidence) = agent s efektom prehnanej sebadôvery
-BW (Bandwagon Effect) = agent so stádovým efektom
+* NBA (Non Biased Agent) = agent bez skreslenia
+* LA (Loss Aversion) = agent s averiou voči strate
+* OC (Overconfidence) = agent s efektom prehnanej sebadôvery
+* BW (Bandwagon Effect) = agent so stádovým efektom
 
 
 [Stiahnuť celú ukážku dát](/data/hunger_games_results.csv)

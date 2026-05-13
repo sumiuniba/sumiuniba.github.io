@@ -83,13 +83,14 @@ _11. 5. - 17. 5. 2026_
 
 _Screenshot simulácie zobrazujúci aktuálne rozloženie agentov v prostredí a veľkosť ich populácie._
 
-**Ukážka výstupných dát zo simulácie**
+**Ukážka výstupných dát**
 ======
-|Počet krokov|Počet NBA|Počet LA|Počet OC|Počet BW|Vymretie NBA|Vymretie LA|Vymretie OC|Vymretie BW|
+
+| Počet krokov | Počet NBA | Počet LA | Počet OC | Počet BW | Vymretie NBA | Vymretie LA | Vymretie OC | Vymretie BW |
 |---|---|---|---|---|---|---|---|---|
-|1000|0|0|68|0|184|718|1000|380|
-|1000|0|18|60|0|138|1000|1000|200|
-|1000|0|49|15|0|134|1000|1000|200|
+| 1000 | 0 | 0 | 68 | 0 | 184 | 718 | 1000 | 380 |
+| 1000 | 0 | 18 | 60 | 0 | 138 | 1000 | 1000 | 200 |
+| 1000 | 0 | 49 | 15 | 0 | 134 | 1000 | 1000 | 200 |
 
 _Nápoveda:_
 * NBA (Non Biased Agent) = agent bez skreslenia

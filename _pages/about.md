@@ -66,6 +66,16 @@ _20. 4. - 26. 4. 2026_
 
 * Dokončenie implementácie simulácie.
 
+_27. 4. - 3. 5. 2026_
+
+* Pridanie averzie voči strate, efektu nadmernej sebadôvery a stádového efektu do teoretickej časti práce.
+
+_4. 5. - 10. 5. 2026_
+
+* Písanie kapitoly Návrh a implementácia simulácie.
+
+_11. 5. - 17. 5. 2026_
+
 **Zrdoje**
 ======
 Hershey H Friedman. Cognitive biases and their influence on critical thinking and scientific reasoning: A practical guide for students and teachers. Available at SSRN 2958800, 2023.

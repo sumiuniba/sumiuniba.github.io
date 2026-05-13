@@ -104,6 +104,9 @@ _Nápoveda:_
 **Zrdoje**
 ======
 
+{% bibliography --file bibtex1 %}
+
+
 Sushil Bikhchandani, David Hirshleifer, and Ivo Welch. A theory of fads, fashion, custom, and cultural change as informational cascades. Journal of political Economy, 100(5):992–1026, 1992.
 
 Hershey H Friedman. Cognitive biases and their influence on critical thinking and scientific reasoning: A practical guide for students and teachers. Available at SSRN 2958800, 2023.

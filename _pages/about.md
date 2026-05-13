@@ -81,6 +81,8 @@ _11. 5. - 17. 5. 2026_
 
 ![Vizualizácia simulácie](/images/simulacia.png)
 
+Screenshot simulácie zobrazujúci aktuálne rozloženie agentov v prostredí a veľkosť ich populácie.
+
 **Zrdoje**
 ======
 

@@ -81,7 +81,7 @@ _11. 5. - 17. 5. 2026_
 
 ![Vizualizácia simulácie](/images/simulacia.png)
 
-_Screenshot simulácie zobrazujúci aktuálne rozloženie agentov v prostredí a veľkosť ich populácie._
+_Screenshot simulácie zobrazujúci aktuálne rozloženie agentov a veľkosť jednotlivých populácií._
 
 **Ukážka výstupných dát**
 ======
@@ -94,7 +94,7 @@ _Screenshot simulácie zobrazujúci aktuálne rozloženie agentov v prostredí a
 
 _Nápoveda:_
 * NBA (Non Biased Agent) = agent bez skreslenia
-* LA (Loss Aversion) = agent s averiou voči strate
+* LA (Loss Aversion) = agent s averziou voči strate
 * OC (Overconfidence) = agent s efektom prehnanej sebadôvery
 * BW (Bandwagon Effect) = agent so stádovým efektom
 

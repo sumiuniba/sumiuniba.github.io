@@ -76,6 +76,11 @@ _4. 5. - 10. 5. 2026_
 
 _11. 5. - 17. 5. 2026_
 
+**Vizualizácia simulácie**
+======
+
+![Vizualizácia simulácie](/images/simulacia.png)
+
 **Zrdoje**
 ======
 

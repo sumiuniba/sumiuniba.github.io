@@ -104,7 +104,7 @@ _Nápoveda:_
 **Zrdoje**
 ======
 
-{% files --file bibtex1 %}
+{% bibliography --file bibtex1 %}
 
 
 Sushil Bikhchandani, David Hirshleifer, and Ivo Welch. A theory of fads, fashion, custom, and cultural change as informational cascades. Journal of political Economy, 100(5):992–1026, 1992.

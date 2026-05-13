@@ -101,11 +101,11 @@ _Nápoveda:_
 * BW (Bandwagon Effect) = agent so stádovým efektom
 
 
-[Stiahnuť celú ukážku výstupných dát](files/RPBP_bakalárka.pdf)
+[Stiahnuť celú ukážku výstupných dát](/files/hunger_games_results.csv)
 
 **Aktuálna verzia práce**
 ======
-[Stiahnuť aktuálnu verziu práce](/files/)
+[Stiahnuť aktuálnu verziu práce](/files/RPBP_bakalárka.pdf)
 
 **Zdroje**
 ======

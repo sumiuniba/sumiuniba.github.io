@@ -101,7 +101,7 @@ _Nápoveda:_
 * BW (Bandwagon Effect) = agent so stádovým efektom
 
 
-[Stiahnuť celú ukážku výstupných dát](/files/RPBP_bakalárka (13).pdf)
+[Stiahnuť celú ukážku výstupných dát](files/RPBP_bakalárka (13).pdf)
 
 **Aktuálna verzia práce**
 ======

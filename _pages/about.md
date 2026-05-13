@@ -78,21 +78,50 @@ _11. 5. - 17. 5. 2026_
 
 **Zrdoje**
 ======
+
+Sushil Bikhchandani, David Hirshleifer, and Ivo Welch. A theory of fads, fashion, custom, and cultural change as informational cascades. Journal of political Economy, 100(5):992–1026, 1992.
+
 Hershey H Friedman. Cognitive biases and their influence on critical thinking and scientific reasoning: A practical guide for students and teachers. Available at SSRN 2958800, 2023.
+
+David Gal and Derek D Rucker. The loss of loss aversion: Will it loom larger than its gain? Journal of Consumer Psychology, 28(3):497–516, 2018.
+
+Andrew Galperin and Martie G Haselton. Error management and the evolution of cognitive bias. In Social thinking and interpersonal behavior, pages 45–63. Psychology Press, 2012.
 
 Gerd Gigerenzer and Wolfgang Gaissmaier. Heuristic decision making. Annual review of psychology, 62(2011):451–482, 2011.
 
+WD HAMILTON. Geometry for the selfish herd. Journal of theoretical Biology, 31(2):295–311, 1971.
+
+Martie G Haselton and Daniel Nettle. The paranoid optimist: An integrative evolutionary model of cognitive biases. Personality and social psychology Review, 10(1):47–66, 2006.
+
 Martie G Haselton, Daniel Nettle, and Paul W Andrews. The evolution of cognitive bias. The handbook of evolutionary psychology, pages 724–746, 2015.
+
+Joe Henrich and Robert Boyd. The evolution of conformist transmission and the emergence of between-group differences. Evolution and human behavior, 19(4):215–241, 1998.
 
 Dominic DP Johnson, Daniel T Blumstein, James H Fowler, and Martie G Haselton. The evolution of error: Error management, cognitive constraints, and adaptive decision-making biases. Trends in ecology & evolution, 28(8):474–481, 2013.
 
+Dominic DP Johnson and James H Fowler. The evolution of overconfidence. Nature, 477(7364):317–320, 2011.
+
 Daniel Kahneman. Thinking Fast and Slow. Penguin Books, 2012.
+
+Daniel Kahneman, Jack L Knetsch, and Richard H Thaler. Anomalies: The endowment effect, loss aversion, and status quo bias. Journal of Economic perspectives, 5(1):193–206, 1991.
 
 Regis K Kakinohana and Ronaldo Pilati. Differences in decisions affected by cognitive biases: examining human values, need for cognition, and numeracy. Psicologia: Reflexão e Crítica, 36(1):26, 2023.
 
+Norman Knyazev and Harrie Oosterhuis. The bandwagon effect: Not just another bias. In Proceedings of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval, pages 243–253, 2022.
+
 JE Korteling, J Sassen-van Meer, A Toet, and HJHC van Veen. Neuro-evolutionary framework for cognitive biases. Rapport TNO, page R10611, 2020.
 
+Don A Moore and Paul J Healy. The trouble with overconfidence. Psychological review, 115(2):502, 2008.
+
 Uwe Peters. What is the function of confirmation bias? Erkenntnis, 87(3):1351–1376, 2022.
+
+Project Mesa Contributors. Mesa: Agent-based modeling in python 3+. https://github.com/mesa/mesa, 2025.
+
+David C Queller. A general model for kin selection. Evolution, 46(2):376–380, 1992.
+
+Shelley E Taylor and Jonathon D Brown. Illusion and well-being: a social psychological perspective on mental health. Psychological bulletin, 103(2):193, 1988.
+
+Ewout ter Hoeven, Jan Kwakkel, Vincent Hess, Thomas Pike, Boyu Wang, rht, and Jackie Kazil. Mesa 3: Agent-based modeling with Python in 2025. Journal of Open Source Software, 10(107):7668, 2025. Použitá verzia softvéru: 3.3.1.
 
 Peter M Todd, Ralph Hertwig, and Ulrich Hoffrage. Evolutionary cognitive psychology. The handbook of evolutionary psychology, pages 776–802, 2015.
 

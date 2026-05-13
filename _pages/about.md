@@ -99,7 +99,7 @@ _Nápoveda:_
 * BW (Bandwagon Effect) = agent so stádovým efektom
 
 
-[Stiahnuť celú ukážku výstupných dát](/data/hunger_games_results.csv)
+[Stiahnuť celú ukážku výstupných dát](/files/hunger_games_results.csv)
 
 **Zdroje**
 ======

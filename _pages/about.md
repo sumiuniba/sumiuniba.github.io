@@ -105,7 +105,7 @@ _Nápoveda:_
 
 **Aktuálna verzia práce**
 ======
-[Stiahnuť aktuálnu verziu práce](/files/RPBP_bakalárka.pdf)
+[Prezrieť aktuálnu verziu práce](/files/RPBP_bakalárka.pdf)
 
 **Zdroje**
 ======

@@ -73,6 +73,7 @@ _27. 4. - 3. 5. 2026_
 _4. 5. - 10. 5. 2026_
 
 * Písanie kapitoly Návrh a implementácia simulácie.
+* Konzultácia so školiteľom.
 
 _11. 5. - 17. 5. 2026_
 

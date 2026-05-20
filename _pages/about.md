@@ -78,6 +78,14 @@ _4. 5. - 10. 5. 2026_
 
 _11. 5. - 17. 5. 2026_
 
+* Rozdelenie kapitoly Návrh a implementácia simulácie na dve osobitné kapitoly.
+* Dokončenie kapitoly Návrh simulácie.
+* Písanie kapitoly Implementácia simulácie.
+
+_18. 5. - 24. 5. 2026_
+
+* Dokončovanie kapitoly Imlemntácia simulácie.
+
 **Vizualizácia simulácie**
 ======
 

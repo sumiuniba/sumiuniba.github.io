@@ -83,8 +83,13 @@ _11. 5. - 17. 5. 2026_
 * Písanie kapitoly Implementácia simulácie.
 
 _18. 5. - 24. 5. 2026_
+* Dokončenie kapitoly Implementácia simulácie.
+* Spúšťanie a získvanie výsledkov experimentu.
 
-* Dokončovanie kapitoly Imlemntácia simulácie.
+_25. 5. - 31. 5. 2026_
+* Interpretácia výsledkov experimentu.
+* Písanie abstraktu, úvodu a záveru.
+* Korektúra práce.
 
 **Vizualizácia simulácie**
 ======
@@ -95,12 +100,13 @@ _Screenshot simulácie zobrazujúci aktuálne rozloženie agentov a veľkosť je
 
 **Ukážka výstupných dát**
 ======
+| Typ skreslenia | Vyhladovanie | Pasca | Súboj | Staroba |
+|---|---|---|---|---|
+| NBA | 3.94 (49.0%) | 2.94 (36.6%) | 1.08 (13.4%) | 0.08 (1.0%) |
+| LA | 263.1 (58.4%) | 0.0 (0.0%) | 28.02 (6.2%) | 159.04 (35.3%) |
+| OC | 275.04 (51.8%) | 82.68 (15.6%) | 29.08 (5.5%) | 144.12 (27.1%) |
+| BW | 5.2 (60.5%) | 0.46 (5.3%) | 0.84 (9.8%) | 2.1 (24.4%) |
 
-| Počet krokov | Počet NBA | Počet LA | Počet OC | Počet BW | Vymretie NBA | Vymretie LA | Vymretie OC | Vymretie BW |
-|---|---|---|---|---|---|---|---|---|
-| 1000 | 0 | 0 | 68 | 0 | 184 | 718 | 1000 | 380 |
-| 1000 | 0 | 18 | 60 | 0 | 138 | 1000 | 1000 | 200 |
-| 1000 | 0 | 49 | 15 | 0 | 134 | 1000 | 1000 | 200 |
 
 _Nápoveda:_
 * NBA (Non Biased Agent) = agent bez skreslenia

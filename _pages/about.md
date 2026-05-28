@@ -107,6 +107,7 @@ _Screenshot simulácie zobrazujúci aktuálne rozloženie agentov a veľkosť je
 | OC | 275.04 (51.8%) | 82.68 (15.6%) | 29.08 (5.5%) | 144.12 (27.1%) |
 | BW | 5.2 (60.5%) | 0.46 (5.3%) | 0.84 (9.8%) | 2.1 (24.4%) |
 
+_Priemerný počet úmrtí podľa príčiny a ich percentuálny podiel v rámci skupín._
 
 _Nápoveda:_
 * NBA (Non Biased Agent) = agent bez skreslenia

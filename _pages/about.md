@@ -100,6 +100,7 @@ _Screenshot simulácie zobrazujúci aktuálne rozloženie agentov a veľkosť je
 
 **Ukážka výstupných dát**
 ======
+
 | Typ skreslenia | Vyhladovanie | Pasca | Súboj | Staroba |
 |---|---|---|---|---|
 | NBA | 3.94 (49.0%) | 2.94 (36.6%) | 1.08 (13.4%) | 0.08 (1.0%) |
